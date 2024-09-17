@@ -1,1 +1,1 @@
-hellohello python
+print("hellohello python")
